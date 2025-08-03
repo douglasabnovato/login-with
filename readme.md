@@ -1,6 +1,6 @@
 # Login With
 
-Um projeto login e register
+Um projeto login e register para implementar a lógica.
 
 ### 📁 Details
 
